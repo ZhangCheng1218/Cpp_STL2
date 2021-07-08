@@ -140,7 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01 函数对象基础.cpp" />
+    <ClCompile Include="01 常用遍历算法for_each transfrom.cpp" />
     <ClCompile Include="02 一元谓词基础.cpp" />
+    <ClCompile Include="02 常用查找算法.cpp" />
     <ClCompile Include="03 二元谓词基础.cpp" />
     <ClCompile Include="04 内建函数对象_算术仿函数.cpp" />
     <ClCompile Include="05 内建函数对象_关系仿函数.cpp" />

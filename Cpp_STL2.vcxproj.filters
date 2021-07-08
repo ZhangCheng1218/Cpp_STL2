@@ -39,5 +39,11 @@
     <ClCompile Include="06 内建函数对象_逻辑仿函数.cpp">
       <Filter>源文件\01 STL函数对象</Filter>
     </ClCompile>
+    <ClCompile Include="01 常用遍历算法for_each transfrom.cpp">
+      <Filter>源文件\02 STL常用算法</Filter>
+    </ClCompile>
+    <ClCompile Include="02 常用查找算法.cpp">
+      <Filter>源文件\02 STL常用算法</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
