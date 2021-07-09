@@ -144,9 +144,13 @@
     <ClCompile Include="02 一元谓词基础.cpp" />
     <ClCompile Include="02 常用查找算法.cpp" />
     <ClCompile Include="03 二元谓词基础.cpp" />
+    <ClCompile Include="03 常用排序算法.cpp" />
     <ClCompile Include="04 内建函数对象_算术仿函数.cpp" />
+    <ClCompile Include="04 常用拷贝和替换算法.cpp" />
     <ClCompile Include="05 内建函数对象_关系仿函数.cpp" />
+    <ClCompile Include="05 常用算法生成算法.cpp" />
     <ClCompile Include="06 内建函数对象_逻辑仿函数.cpp" />
+    <ClCompile Include="06 常用集合算法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
